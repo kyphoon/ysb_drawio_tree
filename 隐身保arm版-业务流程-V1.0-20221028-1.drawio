@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T09:35:37.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_IncuHW6_2tz3HGdjHxN" version="20.5.3" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-11-07T09:37:59.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wgTzhVkC4XXWKNK7GMcy" version="20.5.3" type="github" pages="24">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App与设备连接状态" link="data:page/id,m4upirqhJJBYhIuUnthW" id="H5X5J9dZFGbIHmem4qPP-1">
+        <UserObject label="设备连接状态" link="data:page/id,m4upirqhJJBYhIuUnthW" id="H5X5J9dZFGbIHmem4qPP-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="677" width="120" height="40" as="geometry" />
           </mxCell>
@@ -147,12 +147,12 @@
             <mxGeometry x="80" y="954" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App呈现设备工作状态" link="data:page/id,y3sGPqMioX8a6gR5dE-x" id="Ub87H7qlfKxHM0nTsT69-3">
+        <UserObject label="设备工作状态" link="data:page/id,y3sGPqMioX8a6gR5dE-x" id="Ub87H7qlfKxHM0nTsT69-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="730" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App呈现设备基础信息" id="Ub87H7qlfKxHM0nTsT69-4">
+        <UserObject label="设备基础信息" id="Ub87H7qlfKxHM0nTsT69-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="790" width="120" height="40" as="geometry" />
           </mxCell>
@@ -160,21 +160,6 @@
         <UserObject label="App与设备连接状态" link="data:page/id,eqar74O4FZrr3F-MHLp1" id="Ub87H7qlfKxHM0nTsT69-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="840" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ARM获取设备工作状态" id="oCp9KRO0RVXtbgTCSGlC-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="270" y="10" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ARM获取设备基础信息" id="oCp9KRO0RVXtbgTCSGlC-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="270" y="70" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ARM快捷按钮配置信息" id="oCp9KRO0RVXtbgTCSGlC-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="270" y="140" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

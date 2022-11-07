@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T06:20:52.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="0PmcDM5lyPtyOUW4k8GA" version="20.5.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-11-07T06:59:39.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="c9qv37aq_Je9KOLc_R0m" version="20.5.1" type="github" pages="21">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
             <mxGeometry x="80" y="140" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="主控程序业务-启动" id="3LBfUi7toG9nP2TDjJ_e-1">
+        <UserObject label="主控程序业务-启动" link="data:page/id,vEEn_4Xc5FeTddioWggN" id="3LBfUi7toG9nP2TDjJ_e-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
           </mxCell>
@@ -92,12 +92,12 @@
             <mxGeometry x="80" y="510" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App快捷模拟" id="3LBfUi7toG9nP2TDjJ_e-4">
+        <UserObject label="App快捷模拟" link="data:page/id,xV9IVj1f2xJBT0Q1wB0v" id="3LBfUi7toG9nP2TDjJ_e-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="565" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App普通模拟" id="3LBfUi7toG9nP2TDjJ_e-5">
+        <UserObject label="App普通模拟" link="data:page/id,DyrIpzKKUZdJy4qTQv3w" id="3LBfUi7toG9nP2TDjJ_e-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="620" width="120" height="40" as="geometry" />
           </mxCell>
@@ -112,27 +112,27 @@
             <mxGeometry x="80" y="900" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="固件更新" id="3LBfUi7toG9nP2TDjJ_e-10">
+        <UserObject label="固件更新" link="data:page/id,5aIs5HYBRm-2mPYHj97p" id="3LBfUi7toG9nP2TDjJ_e-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="1059" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="消息模型" id="YCJR0ogIqh_PL6qocdS3-1">
+        <UserObject label="消息模型" link="data:page/id,Bffo9vWy7ibaLt5hKlIj" id="YCJR0ogIqh_PL6qocdS3-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="1110" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="星历更新" id="mke4aSeYu3QjHjDcT0Fj-1">
+        <UserObject label="星历更新" link="data:page/id,oYOUfNucXHreegXP45ty" id="mke4aSeYu3QjHjDcT0Fj-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App与设备连接状态" id="H5X5J9dZFGbIHmem4qPP-1">
+        <UserObject label="App与设备连接状态" link="data:page/id,m4upirqhJJBYhIuUnthW" id="H5X5J9dZFGbIHmem4qPP-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="680" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="隐身保固件存放目录" id="H5X5J9dZFGbIHmem4qPP-2">
+        <UserObject label="隐身保固件存放目录" link="data:page/id,Y_9rXmQImSnDAohjpaRc" id="H5X5J9dZFGbIHmem4qPP-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="1007" width="120" height="40" as="geometry" />
           </mxCell>
@@ -147,7 +147,7 @@
             <mxGeometry x="80" y="954" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App呈现设备工作状态" id="Ub87H7qlfKxHM0nTsT69-3">
+        <UserObject label="App呈现设备工作状态" link="data:page/id,y3sGPqMioX8a6gR5dE-x" id="Ub87H7qlfKxHM0nTsT69-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="730" width="120" height="40" as="geometry" />
           </mxCell>
@@ -157,7 +157,7 @@
             <mxGeometry x="80" y="790" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="App与设备连接状态" id="Ub87H7qlfKxHM0nTsT69-5">
+        <UserObject label="App与设备连接状态" link="data:page/id,eqar74O4FZrr3F-MHLp1" id="Ub87H7qlfKxHM0nTsT69-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="840" width="120" height="40" as="geometry" />
           </mxCell>
@@ -1583,7 +1583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="App快捷模拟" id="xV9IVj1f2xJBT0Q1wB0v">
-    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gvYjZAzdGk1djFOvVirG-0" />
         <mxCell id="gvYjZAzdGk1djFOvVirG-1" parent="gvYjZAzdGk1djFOvVirG-0" />
@@ -1696,7 +1696,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DyrIpzKKUZdJy4qTQv3w" name="App普通模拟">
-    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WCFFdwr8jaKaacwbK4jz-0" />
         <mxCell id="WCFFdwr8jaKaacwbK4jz-1" parent="WCFFdwr8jaKaacwbK4jz-0" />
@@ -1802,7 +1802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m4upirqhJJBYhIuUnthW" name="App与设备连接状态">
-    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6t1G0-ppAvZOkaCI75ZP" name="设备固件格式">
-    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2174,7 +2174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y_9rXmQImSnDAohjpaRc" name="隐身保固件存放目录">
-    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2247,7 +2247,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5aIs5HYBRm-2mPYHj97p" name="固件更新">
-    <mxGraphModel dx="119" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="119" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2512,7 +2512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bffo9vWy7ibaLt5hKlIj" name="消息模型">
-    <mxGraphModel dx="1346" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

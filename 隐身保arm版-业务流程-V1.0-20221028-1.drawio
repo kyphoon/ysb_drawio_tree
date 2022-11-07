@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T09:14:55.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tA1_KNY38IgicAhj-N4f" version="20.5.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-11-07T09:31:19.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7_E5tH-tAQtf26HxGnf2" version="20.5.3" type="github" pages="22">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -977,39 +977,8 @@
         <mxCell id="aam4wxCJViLa4rdr7kGw-23" value="每隔一分钟重复请求一次" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="637.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-25" target="aam4wxCJViLa4rdr7kGw-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-25" value="通过低功率蓝牙连接设备" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-27" target="aam4wxCJViLa4rdr7kGw-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-27" value="连接成功" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-30" target="aam4wxCJViLa4rdr7kGw-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-29" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-28" vertex="1" connectable="0">
-          <mxGeometry x="-0.2588" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-30" value="判断是否有网" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="960" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-33" target="aam4wxCJViLa4rdr7kGw-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-32" value="传输星历文件名称" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-31" vertex="1" connectable="0">
-          <mxGeometry x="0.0627" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-33" value="通过蓝牙传输设备星历文件名给app" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-35" target="aam4wxCJViLa4rdr7kGw-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1028,19 +997,8 @@
         <mxCell id="aam4wxCJViLa4rdr7kGw-38" value="本地版本是否高于设备星历版本" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-41" target="aam4wxCJViLa4rdr7kGw-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-40" value="本地星历文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-39" vertex="1" connectable="0">
-          <mxGeometry x="-0.1803" y="1" relative="1" as="geometry">
-            <mxPoint x="21.76" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-41" value="将本地星历文件传输给设备" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-42" value="接收星历文件，gps程序重新加载" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-45" target="aam4wxCJViLa4rdr7kGw-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1059,162 +1017,95 @@
             <mxPoint x="200" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-48" target="aam4wxCJViLa4rdr7kGw-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-48" value="从星历服务器上下载星历文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-60" target="aam4wxCJViLa4rdr7kGw-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-49" vertex="1" connectable="0">
-          <mxGeometry x="-0.6821" y="1" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-51" value="开启时间计算线程，计算下次需要下载文件的时间&lt;br&gt;（在整点时间往后延时几分钟，给服务端下载时间）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="500" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-55" target="aam4wxCJViLa4rdr7kGw-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-52" vertex="1" connectable="0">
-          <mxGeometry x="-0.1679" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-55" target="aam4wxCJViLa4rdr7kGw-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-55" value="&lt;span&gt;下次下载时间到之后，判断是否有网&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="710" width="140" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aam4wxCJViLa4rdr7kGw-57" target="aam4wxCJViLa4rdr7kGw-68" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1700" y="768" />
-              <mxPoint x="1700" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-57" value="每隔一分钟重复请求一次" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="737.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1630" y="738" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1630" y="658" />
-              <mxPoint x="1630" y="738" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-58" vertex="1" connectable="0">
-          <mxGeometry x="-0.1948" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-60" value="星历下载是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="637.5" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-51" target="aam4wxCJViLa4rdr7kGw-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320" y="590" as="sourcePoint" />
-            <mxPoint x="1320" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-63" target="aam4wxCJViLa4rdr7kGw-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-63" value="打开设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-68" target="aam4wxCJViLa4rdr7kGw-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-65" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-64" vertex="1" connectable="0">
-          <mxGeometry x="-0.0857" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aam4wxCJViLa4rdr7kGw-68" target="aam4wxCJViLa4rdr7kGw-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-67" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-66" vertex="1" connectable="0">
-          <mxGeometry x="0.0656" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-68" value="是否有网络" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-69" value="替换本地星历，gps程序重新加载" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="1290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-72" target="aam4wxCJViLa4rdr7kGw-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-71" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-70" vertex="1" connectable="0">
-          <mxGeometry x="-0.1516" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-72" value="请求是否需要下载星历文件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="870" width="140" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-74" target="aam4wxCJViLa4rdr7kGw-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-74" value="下载星历文件" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="1050" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aam4wxCJViLa4rdr7kGw-79" target="aam4wxCJViLa4rdr7kGw-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-76" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-75" vertex="1" connectable="0">
-          <mxGeometry x="-0.1543" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-79" target="aam4wxCJViLa4rdr7kGw-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-78" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-77" vertex="1" connectable="0">
-          <mxGeometry x="0.0571" y="-5" relative="1" as="geometry">
-            <mxPoint y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-79" value="是否下载成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aam4wxCJViLa4rdr7kGw-81" target="aam4wxCJViLa4rdr7kGw-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1510" y="768" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-81" value="&lt;span&gt;每隔一分钟重复请求一次&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="1170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aam4wxCJViLa4rdr7kGw-84" target="aam4wxCJViLa4rdr7kGw-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1060" y="1120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-83" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aam4wxCJViLa4rdr7kGw-82" vertex="1" connectable="0">
-          <mxGeometry x="-0.4744" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-84" value="判断蓝牙是否连接" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="990" y="710" width="140" height="115" as="geometry" />
-        </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-85" value="星历更新流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-1" value="更新星历" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-4" target="JCHi9mMWF6V3E1XvZ8W3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-4" value="检测4G网络状态" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-5" value="4G网络是否可用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-9" value="可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="555" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-10" target="JCHi9mMWF6V3E1XvZ8W3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-10" value="下载星历文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-11" target="JCHi9mMWF6V3E1XvZ8W3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-11" target="JCHi9mMWF6V3E1XvZ8W3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-11" value="星历是否下载成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-13" target="JCHi9mMWF6V3E1XvZ8W3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-13" value="向APP推送星历版本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-15" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-19" value="APP是否已连接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-20" value="不可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-22" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="825" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-26" value="&lt;font color=&quot;#ff3333&quot;&gt;等待1分钟&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-24" target="JCHi9mMWF6V3E1XvZ8W3-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-24" target="JCHi9mMWF6V3E1XvZ8W3-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="950" />
+              <mxPoint x="1200" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-24" value="设备是否禁用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-27" value="未禁用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-31" value="已禁用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="825" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T09:42:41.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hkbXhOn-NcDc9l8E6Sji" version="20.5.3" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-11-07T09:52:02.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HTVqGN1ESlbbit4JNvUq" version="20.5.3" type="github" pages="24">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1053,7 +1053,7 @@
         <mxCell id="JCHi9mMWF6V3E1XvZ8W3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-10" target="JCHi9mMWF6V3E1XvZ8W3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-10" value="下载星历文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-10" value="下载并更新本地星历文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JCHi9mMWF6V3E1XvZ8W3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-11" target="JCHi9mMWF6V3E1XvZ8W3-13">
@@ -1062,7 +1062,7 @@
         <mxCell id="JCHi9mMWF6V3E1XvZ8W3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-11" target="JCHi9mMWF6V3E1XvZ8W3-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-11" value="星历是否下载成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JCHi9mMWF6V3E1XvZ8W3-11" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JCHi9mMWF6V3E1XvZ8W3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCHi9mMWF6V3E1XvZ8W3-13" target="JCHi9mMWF6V3E1XvZ8W3-15">
@@ -1117,11 +1117,10 @@
         <mxCell id="JCHi9mMWF6V3E1XvZ8W3-31" value="已禁用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1055" y="825" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yGc0ODBS7UcVUCdtFfci-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="yGc0ODBS7UcVUCdtFfci-1" target="JCHi9mMWF6V3E1XvZ8W3-15">
+        <mxCell id="yGc0ODBS7UcVUCdtFfci-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" edge="1" parent="1" source="yGc0ODBS7UcVUCdtFfci-1" target="yGc0ODBS7UcVUCdtFfci-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1510" y="950" />
-              <mxPoint x="1200" y="950" />
+              <mxPoint x="1500" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1133,6 +1132,9 @@
         </mxCell>
         <mxCell id="yGc0ODBS7UcVUCdtFfci-6" value="未连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1330" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGc0ODBS7UcVUCdtFfci-7" value="星历下载指令" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

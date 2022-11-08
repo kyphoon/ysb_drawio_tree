@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:35:28.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="feDM9jLn6BLEJicmZCaz" version="20.5.3" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-11-08T07:11:36.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6mHR6DC63HjrCVsifGN3" version="20.5.3" type="github" pages="25">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -908,15 +908,18 @@
         </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-5" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1610" as="sourcePoint" />
-            <mxPoint x="560" y="80" as="targetPoint" />
+            <mxPoint x="660" y="1610" as="sourcePoint" />
+            <mxPoint x="660" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="850" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-6" value="app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="110" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aam4wxCJViLa4rdr7kGw-7" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="110" width="40" height="20" as="geometry" />
+        <mxCell id="aam4wxCJViLa4rdr7kGw-7" value="隐身保ARM后台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="110" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aam4wxCJViLa4rdr7kGw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aam4wxCJViLa4rdr7kGw-9" target="aam4wxCJViLa4rdr7kGw-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1138,16 +1141,98 @@
           <mxGeometry x="1330" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGc0ODBS7UcVUCdtFfci-7" value="星历下载指令" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="410" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yGc0ODBS7UcVUCdtFfci-11" value="&lt;font color=&quot;#000000&quot;&gt;失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1115" y="750" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGc0ODBS7UcVUCdtFfci-13" value="&lt;font color=&quot;#ff3333&quot;&gt;星历版本&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="400" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yGc0ODBS7UcVUCdtFfci-16" value="&lt;h1&gt;星历下载执行时间&lt;/h1&gt;&lt;p&gt;奇数小时的第10分钟自动执行&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="830" y="180" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-1" value="&lt;font color=&quot;#000000&quot;&gt;星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-2" target="IBYwzVcTC1JSmOAJ4ors-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-2" value="&lt;font color=&quot;#000000&quot;&gt;接收星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-1" target="IBYwzVcTC1JSmOAJ4ors-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="660" as="sourcePoint" />
+            <mxPoint x="930" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-4" target="IBYwzVcTC1JSmOAJ4ors-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-4" value="&lt;font color=&quot;#000000&quot;&gt;解析星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-8" target="IBYwzVcTC1JSmOAJ4ors-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-8" value="&lt;font color=&quot;#000000&quot;&gt;是否解析成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1620" y="1090" />
+              <mxPoint x="1620" y="1400" />
+              <mxPoint x="1500" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-10" value="&lt;font color=&quot;#000000&quot;&gt;将星历数据转换为文件，并存储到临时目录&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-12" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="870" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-15" value="比较临时目录的星历文件版本是否大于系统星历版本" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1050" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-16" target="IBYwzVcTC1JSmOAJ4ors-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-16" value="将临时目录的星历文件拷贝到系统目录" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-18" value="大于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-19" value="删除历史星历文件" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-24" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-27" value="不大于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="1060" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

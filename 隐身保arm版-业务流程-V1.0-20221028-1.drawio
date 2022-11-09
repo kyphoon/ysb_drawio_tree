@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T10:01:47.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="H_E3L9_YEoD6SAyjt5WY" version="20.5.3" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-11-09T01:11:41.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="R_oWk_ljKgYyZy9HgBha" version="20.5.3" type="github" pages="25">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eBD5BQ9tWSRSj1wrevEz" name="目录">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -888,7 +888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYOUfNucXHreegXP45ty" name="星历更新">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1167,16 +1167,16 @@
         <mxCell id="yGc0ODBS7UcVUCdtFfci-16" value="&lt;h1&gt;星历下载执行时间&lt;/h1&gt;&lt;p&gt;奇数小时的第10分钟自动执行&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="830" y="180" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-1" value="&lt;font color=&quot;#000000&quot;&gt;星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-1" value="&lt;font color=&quot;#000000&quot;&gt;星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="500" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-2" target="IBYwzVcTC1JSmOAJ4ors-4">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-2" target="IBYwzVcTC1JSmOAJ4ors-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-2" value="&lt;font color=&quot;#000000&quot;&gt;接收星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-2" value="&lt;font color=&quot;#000000&quot;&gt;接收星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1440" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-1" target="IBYwzVcTC1JSmOAJ4ors-2">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-1" target="IBYwzVcTC1JSmOAJ4ors-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="660" as="sourcePoint" />
             <mxPoint x="930" y="660" as="targetPoint" />
@@ -1185,38 +1185,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-4" target="IBYwzVcTC1JSmOAJ4ors-8">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-4" target="IBYwzVcTC1JSmOAJ4ors-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-4" value="&lt;font color=&quot;#000000&quot;&gt;解析星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-4" value="&lt;font color=&quot;#000000&quot;&gt;解析星历数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1440" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-8" target="IBYwzVcTC1JSmOAJ4ors-10">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-8" target="IBYwzVcTC1JSmOAJ4ors-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-8">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1630" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-8" value="&lt;font color=&quot;#000000&quot;&gt;是否解析成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-8" value="&lt;font color=&quot;#000000&quot;&gt;是否解析成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1460" y="790" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-10">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1500" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-10" value="&lt;font color=&quot;#000000&quot;&gt;将星历数据转换为文件，并存储到临时目录&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-10" value="&lt;font color=&quot;#000000&quot;&gt;将星历数据转换为文件，并存储到临时目录&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1440" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-12" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-12" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1490" y="870" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-16">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-24">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1620" y="1090" />
@@ -1225,75 +1225,48 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-15" value="比较临时目录的星历文件版本是否大于系统星历版本" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-15" value="比较临时目录的星历文件版本是否大于系统星历版本" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1460" y="1050" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-16" target="IBYwzVcTC1JSmOAJ4ors-19">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-16" target="IBYwzVcTC1JSmOAJ4ors-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-16" value="将临时目录的星历文件拷贝到系统目录" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-16" value="将临时目录的星历文件拷贝到系统目录" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-18" value="大于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-18" value="大于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-19" target="IBYwzVcTC1JSmOAJ4ors-30">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-19" target="IBYwzVcTC1JSmOAJ4ors-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-19" value="删除历史星历文件" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-19" value="删除历史星历文件" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-24" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-24" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-27" value="小于等于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-27" value="小于等于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1545" y="1060" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-30" target="IBYwzVcTC1JSmOAJ4ors-24">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-30" target="IBYwzVcTC1JSmOAJ4ors-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-30" value="推送星历文件版本到APP" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-30" value="推送星历文件版本到APP" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-37" value="&lt;font color=&quot;#000000&quot;&gt;解析失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-37" value="&lt;font color=&quot;#000000&quot;&gt;解析失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1530" y="810" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-40" target="IBYwzVcTC1JSmOAJ4ors-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-40" target="IBYwzVcTC1JSmOAJ4ors-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-40" value="APP是否处于连接状态" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="790" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-43" target="yGc0ODBS7UcVUCdtFfci-7">
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" parent="1" source="IBYwzVcTC1JSmOAJ4ors-43" target="yGc0ODBS7UcVUCdtFfci-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1760" y="960" />
-              <mxPoint x="1760" y="440" />
+              <mxPoint x="1690" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-43" value="发送星历下载指令" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="870" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="IBYwzVcTC1JSmOAJ4ors-53" target="IBYwzVcTC1JSmOAJ4ors-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1600" y="700" />
-              <mxPoint x="1600" y="830" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-53" value="&lt;font color=&quot;#ff3333&quot;&gt;等待1分钟&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-56" value="&lt;font color=&quot;#000000&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="760" width="40" height="30" as="geometry" />
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-43" value="发送星历下载指令" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1523,7 +1496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="设备按键模拟" id="FXkUWknyZdtjzOtibDeT">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FP8bYJN2lMvKNL1kxisp-0" />
         <mxCell id="FP8bYJN2lMvKNL1kxisp-1" parent="FP8bYJN2lMvKNL1kxisp-0" />

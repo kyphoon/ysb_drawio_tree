@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T03:51:07.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ux51fBKBeGG7tess9wMo" version="20.6.0" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-11-29T03:56:02.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QFOJ6vfAXz7dQdkbM8in" version="20.6.0" type="github" pages="27">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4426,7 +4426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MnajINpsCNFIcu9fOh_J" name="检测4G网络状态">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4445,7 +4445,7 @@
         <mxCell id="D1wh-8D7Icdf3YrkSugM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-4" target="D1wh-8D7Icdf3YrkSugM-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D1wh-8D7Icdf3YrkSugM-4" value="从域名数组中取第一个域名" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1wh-8D7Icdf3YrkSugM-4" value="从数组中取一个域名" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D1wh-8D7Icdf3YrkSugM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-8" target="D1wh-8D7Icdf3YrkSugM-11" edge="1">
@@ -4454,7 +4454,7 @@
         <mxCell id="D1wh-8D7Icdf3YrkSugM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-8" target="D1wh-8D7Icdf3YrkSugM-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D1wh-8D7Icdf3YrkSugM-8" value="使用Ping命令检测网络是否可用" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1wh-8D7Icdf3YrkSugM-8" value="Ping域名是否有响应" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D1wh-8D7Icdf3YrkSugM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-11" target="D1wh-8D7Icdf3YrkSugM-15" edge="1">
@@ -4466,8 +4466,8 @@
         <mxCell id="D1wh-8D7Icdf3YrkSugM-15" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="280" y="840" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D1wh-8D7Icdf3YrkSugM-17" value="可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="340" y="660" width="50" height="30" as="geometry" />
+        <mxCell id="D1wh-8D7Icdf3YrkSugM-17" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="660" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D1wh-8D7Icdf3YrkSugM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-20" target="D1wh-8D7Icdf3YrkSugM-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4475,11 +4475,11 @@
         <mxCell id="ChEEzZ8d0s-w2m-ZuTOH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-20" target="ChEEzZ8d0s-w2m-ZuTOH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D1wh-8D7Icdf3YrkSugM-20" value="当前域名是否为域名数组中最后一个域名" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1wh-8D7Icdf3YrkSugM-20" value="数组元素是否取尽" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="456" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D1wh-8D7Icdf3YrkSugM-24" value="不可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="375" y="590" width="60" height="30" as="geometry" />
+        <mxCell id="D1wh-8D7Icdf3YrkSugM-24" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385" y="590" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D1wh-8D7Icdf3YrkSugM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1wh-8D7Icdf3YrkSugM-28" target="D1wh-8D7Icdf3YrkSugM-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4533,7 +4533,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ChEEzZ8d0s-w2m-ZuTOH-1" value="从域名数组中读取下一个域名" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ChEEzZ8d0s-w2m-ZuTOH-1" value="读取下一个域名" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

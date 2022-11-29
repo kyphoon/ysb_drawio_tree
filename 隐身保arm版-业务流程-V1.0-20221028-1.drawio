@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T03:47:34.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tLMueIcSJ2tOrnTyHeb4" version="20.6.0" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-11-29T03:49:09.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="H5NFKLkOJQTL2O6_rprB" version="20.6.0" type="github" pages="27">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1128,7 +1128,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2270" y="490" />
-              <mxPoint x="2270" y="1630" />
+              <mxPoint x="2270" y="1680" />
+              <mxPoint x="870" y="1680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1137,7 +1138,8 @@
             <mxPoint x="921" y="1630.0588235294117" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2270" y="810" />
-              <mxPoint x="2270" y="1630" />
+              <mxPoint x="2270" y="1680" />
+              <mxPoint x="870" y="1680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1283,10 +1285,8 @@
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-4" target="IBYwzVcTC1JSmOAJ4ors-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="1000" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wj7W0OxMTjEafAasdhsp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-10" target="wj7W0OxMTjEafAasdhsp-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-10" value="&lt;font color=&quot;#000000&quot;&gt;将星历数据转换为文件，并存储到临时目录&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
           <mxGeometry x="750" y="880" width="120" height="60" as="geometry" />
@@ -1297,44 +1297,44 @@
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-12" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
           <mxGeometry x="800" y="820" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IBYwzVcTC1JSmOAJ4ors-15" value="比较临时目录的星历文件版本是否大于系统星历版本" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="770" y="1000" width="80" height="80" as="geometry" />
+        <mxCell id="IBYwzVcTC1JSmOAJ4ors-15" value="是否大于" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
+          <mxGeometry x="770" y="1084" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-16" value="将临时目录的星历文件拷贝到系统目录" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="750" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-18" value="大于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="810" y="1080" width="50" height="30" as="geometry" />
+          <mxGeometry x="810" y="1164" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-19" value="删除历史星历文件" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="750" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-16" target="IBYwzVcTC1JSmOAJ4ors-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-24" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="750" y="1480" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="1564" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-15" target="IBYwzVcTC1JSmOAJ4ors-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="1040" />
-              <mxPoint x="930" y="1450" />
-              <mxPoint x="810" y="1450" />
+              <mxPoint x="930" y="1124" />
+              <mxPoint x="930" y="1534" />
+              <mxPoint x="810" y="1534" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-27" value="小于等于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="855" y="1010" width="70" height="30" as="geometry" />
+          <mxGeometry x="855" y="1094" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-30" target="IBYwzVcTC1JSmOAJ4ors-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-30" value="推送星历文件版本到APP" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
-          <mxGeometry x="750" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1454" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBYwzVcTC1JSmOAJ4ors-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="NckIbf6IMjho5u6FJjSn-71" source="IBYwzVcTC1JSmOAJ4ors-19" target="IBYwzVcTC1JSmOAJ4ors-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1369,11 +1369,17 @@
         <mxCell id="wj7W0OxMTjEafAasdhsp-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NckIbf6IMjho5u6FJjSn-71">
           <mxGeometry x="425" y="185" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YfJ9CZFmP0OSG64FljwI-52" value="通过蓝牙传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
+          <mxGeometry x="290" y="1614" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wj7W0OxMTjEafAasdhsp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NckIbf6IMjho5u6FJjSn-71" source="wj7W0OxMTjEafAasdhsp-27" target="IBYwzVcTC1JSmOAJ4ors-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wj7W0OxMTjEafAasdhsp-27" value="比较临时目录的星历文件版本是否大于系统星历版本" style="whiteSpace=wrap;html=1;" vertex="1" parent="NckIbf6IMjho5u6FJjSn-71">
+          <mxGeometry x="750" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="YfJ9CZFmP0OSG64FljwI-37" value="请求响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="1275" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YfJ9CZFmP0OSG64FljwI-52" value="通过蓝牙传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="1695" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YfJ9CZFmP0OSG64FljwI-60" value="通过蓝牙传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1320" y="2115" width="100" height="30" as="geometry" />

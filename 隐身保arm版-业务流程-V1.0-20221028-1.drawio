@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T03:06:53.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="7Yq-VQUTPOC7oDdcKpJV" version="20.5.3" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-11-30T03:08:11.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="MpjNESAo8Tf7mYmHyYNO" version="20.5.3" type="github" pages="25">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3462,7 +3462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5aIs5HYBRm-2mPYHj97p" name="固件更新">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3634,7 +3634,7 @@
           <mxGeometry x="430" y="2024" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hU_x4q5RlULEiZJ-ZtMt-16" value="软件管理服务端" style="swimlane;startSize=20;html=1;" parent="hU_x4q5RlULEiZJ-ZtMt-4" vertex="1">
-          <mxGeometry x="610" width="580" height="2520" as="geometry" />
+          <mxGeometry x="610" width="250" height="2520" as="geometry" />
         </mxCell>
         <mxCell id="WVI9wCm0iVD6zRv1bWLF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="hU_x4q5RlULEiZJ-ZtMt-16" source="hU_x4q5RlULEiZJ-ZtMt-25" target="hU_x4q5RlULEiZJ-ZtMt-27">
           <mxGeometry relative="1" as="geometry" />

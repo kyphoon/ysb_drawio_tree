@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:34:43.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SZtKBrqFjFDNC1jfYQEQ" version="20.6.0" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:42:15.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qqwj9N9Co0sMuz8xFryc" version="20.6.0" type="github" pages="24">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eBD5BQ9tWSRSj1wrevEz" name="目录">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,17 +83,17 @@
           </mxCell>
         </UserObject>
         <UserObject label="电池电量和充电状态" link="data:page/id,ALcZkz-070rJkHht2Uih" id="3LBfUi7toG9nP2TDjJ_e-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="按键模拟" link="data:page/id,FXkUWknyZdtjzOtibDeT" id="3LBfUi7toG9nP2TDjJ_e-3">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="460" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="设置快捷模拟" link="data:page/id,tBNIbJM0Mq_tkKHdqn22" id="3LBfUi7toG9nP2TDjJ_e-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="530" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -108,17 +108,17 @@
           </mxCell>
         </UserObject>
         <UserObject label="消息模型" link="data:page/id,Bffo9vWy7ibaLt5hKlIj" id="YCJR0ogIqh_PL6qocdS3-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="1080" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="app传输星历更新" link="data:page/id,oYOUfNucXHreegXP45ty" id="mke4aSeYu3QjHjDcT0Fj-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="设备连接状态" link="data:page/id,rC60EX1w50REHjvY9FMP" id="H5X5J9dZFGbIHmem4qPP-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="80" y="660" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4236,9 +4236,6 @@
         <mxCell id="FvGW9VxOI4bkfhL9pmj1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="uV_9einb26Z_wvZumP7G-2" source="FvGW9VxOI4bkfhL9pmj1-2" target="FvGW9VxOI4bkfhL9pmj1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-dHKCl0LhGuRXzMn1n8K-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="uV_9einb26Z_wvZumP7G-2" source="uV_9einb26Z_wvZumP7G-19" target="uV_9einb26Z_wvZumP7G-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uV_9einb26Z_wvZumP7G-19" value="查询是否需要下载星历" style="whiteSpace=wrap;html=1;" parent="uV_9einb26Z_wvZumP7G-2" vertex="1">
           <mxGeometry x="114.99999999999955" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4276,9 +4273,6 @@
         </mxCell>
         <mxCell id="uV_9einb26Z_wvZumP7G-32" value="是否需要下载" style="rhombus;whiteSpace=wrap;html=1;" parent="uV_9einb26Z_wvZumP7G-2" vertex="1">
           <mxGeometry x="135" y="670" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-dHKCl0LhGuRXzMn1n8K-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="uV_9einb26Z_wvZumP7G-2" source="uV_9einb26Z_wvZumP7G-33" target="uV_9einb26Z_wvZumP7G-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uV_9einb26Z_wvZumP7G-33" value="请求星历文件" style="whiteSpace=wrap;html=1;" parent="uV_9einb26Z_wvZumP7G-2" vertex="1">
           <mxGeometry x="115" y="810" width="120" height="60" as="geometry" />
@@ -4341,17 +4335,24 @@
         <mxCell id="uV_9einb26Z_wvZumP7G-36" value="返回星历文件" style="whiteSpace=wrap;html=1;" parent="uV_9einb26Z_wvZumP7G-3" vertex="1">
           <mxGeometry x="100" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-dHKCl0LhGuRXzMn1n8K-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="uV_9einb26Z_wvZumP7G-1" source="uV_9einb26Z_wvZumP7G-19" target="uV_9einb26Z_wvZumP7G-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="630" as="sourcePoint" />
-            <mxPoint x="110" y="580" as="targetPoint" />
-            <Array as="points" />
+        <mxCell id="z7jyQtm8bsELhR4y0RxS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uV_9einb26Z_wvZumP7G-1" source="uV_9einb26Z_wvZumP7G-19" target="uV_9einb26Z_wvZumP7G-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7jyQtm8bsELhR4y0RxS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uV_9einb26Z_wvZumP7G-1" source="uV_9einb26Z_wvZumP7G-21" target="uV_9einb26Z_wvZumP7G-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-dHKCl0LhGuRXzMn1n8K-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="uV_9einb26Z_wvZumP7G-1" source="uV_9einb26Z_wvZumP7G-33" target="uV_9einb26Z_wvZumP7G-36" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="830" as="sourcePoint" />
-            <mxPoint x="110" y="780" as="targetPoint" />
+        <mxCell id="z7jyQtm8bsELhR4y0RxS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uV_9einb26Z_wvZumP7G-1" source="uV_9einb26Z_wvZumP7G-33" target="uV_9einb26Z_wvZumP7G-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7jyQtm8bsELhR4y0RxS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uV_9einb26Z_wvZumP7G-1" source="uV_9einb26Z_wvZumP7G-36" target="uV_9einb26Z_wvZumP7G-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="998" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

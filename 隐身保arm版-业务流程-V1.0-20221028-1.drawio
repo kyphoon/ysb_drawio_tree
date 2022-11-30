@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T07:44:22.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="2MSdXvqffRW4kmcbplsJ" version="20.5.3" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-11-30T07:47:16.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="rzW8biSDV-b8mcKew52H" version="20.5.3" type="github" pages="25">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eBD5BQ9tWSRSj1wrevEz" name="目录">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,7 +623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="App业务-启动软件" id="A4qGGqtxuNOarDs5r1rz">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gh-BLZ_zmRWkCzmKANyM-0" />
         <mxCell id="gh-BLZ_zmRWkCzmKANyM-1" parent="gh-BLZ_zmRWkCzmKANyM-0" />
@@ -958,7 +958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYOUfNucXHreegXP45ty" name="星历更新">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1152,7 +1152,7 @@
             <mxPoint x="1940" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NckIbf6IMjho5u6FJjSn-71" value="主控程序" style="swimlane;startSize=20;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NckIbf6IMjho5u6FJjSn-68" vertex="1">
+        <mxCell id="NckIbf6IMjho5u6FJjSn-71" value="主控程序" style="swimlane;startSize=20;html=1;" parent="NckIbf6IMjho5u6FJjSn-68" vertex="1">
           <mxGeometry x="1190" y="30" width="1130" height="2270" as="geometry" />
         </mxCell>
         <mxCell id="wj7W0OxMTjEafAasdhsp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NckIbf6IMjho5u6FJjSn-71" source="JCHi9mMWF6V3E1XvZ8W3-1" target="wj7W0OxMTjEafAasdhsp-2" edge="1">
@@ -1378,7 +1378,7 @@
         <mxCell id="wj7W0OxMTjEafAasdhsp-27" value="比较临时目录的星历文件版本是否大于系统星历版本" style="whiteSpace=wrap;html=1;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
           <mxGeometry x="750" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JVWbxeG2AlcnJ9uq5rpT-4" value="接收星历数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NckIbf6IMjho5u6FJjSn-71">
+        <mxCell id="JVWbxeG2AlcnJ9uq5rpT-4" value="接收星历数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NckIbf6IMjho5u6FJjSn-71" vertex="1">
           <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YfJ9CZFmP0OSG64FljwI-37" value="请求响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1399,7 +1399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ALcZkz-070rJkHht2Uih" name="电池电量和充电状态">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1593,7 +1593,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="设备按键模拟" id="FXkUWknyZdtjzOtibDeT">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FP8bYJN2lMvKNL1kxisp-0" />
         <mxCell id="FP8bYJN2lMvKNL1kxisp-1" parent="FP8bYJN2lMvKNL1kxisp-0" />
@@ -2477,7 +2477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="快捷模拟和设置" id="tBNIbJM0Mq_tkKHdqn22">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="88xLPIZBhwsMb3c_BO-y-0" />
         <mxCell id="88xLPIZBhwsMb3c_BO-y-1" parent="88xLPIZBhwsMb3c_BO-y-0" />
@@ -2898,7 +2898,7 @@
         <mxCell id="8IX70DX3bt0UEeXW7Ho4-2" value="app相应编号按钮点亮&lt;br&gt;快捷方式模拟成功" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="88xLPIZBhwsMb3c_BO-y-2" vertex="1">
           <mxGeometry x="1190" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E6RTUg_h-QtGdIUGlF29-0" value="接收快捷模拟配置信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="88xLPIZBhwsMb3c_BO-y-2">
+        <mxCell id="E6RTUg_h-QtGdIUGlF29-0" value="接收快捷模拟配置信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="88xLPIZBhwsMb3c_BO-y-2" vertex="1">
           <mxGeometry x="150" y="1540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oi_H1_zlZB5ZxI1v-2Wl-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="88xLPIZBhwsMb3c_BO-y-1" target="88xLPIZBhwsMb3c_BO-y-3" edge="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:13:56.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jPk_fISDMJGuBXaxeeBn" version="20.6.0" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:14:33.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UaSN9L8Nm1krcigXdzT1" version="20.6.0" type="github" pages="24">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2888,14 +2888,14 @@
         <mxCell id="8IX70DX3bt0UEeXW7Ho4-2" value="app相应编号按钮点亮&lt;br&gt;快捷方式模拟成功" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="88xLPIZBhwsMb3c_BO-y-2" vertex="1">
           <mxGeometry x="1190" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E6RTUg_h-QtGdIUGlF29-0" value="接收快捷模拟配置信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="88xLPIZBhwsMb3c_BO-y-2">
-          <mxGeometry x="150" y="1540" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="y2jWd9BeCLnOVRg04USq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="88xLPIZBhwsMb3c_BO-y-2" source="y2jWd9BeCLnOVRg04USq-0" target="dOjd6VUf5KGEc8vvrlOg-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y2jWd9BeCLnOVRg04USq-0" value="推送异常信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="88xLPIZBhwsMb3c_BO-y-2">
           <mxGeometry x="320" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaIvnTx8CrS3y3J_cLHK-0" value="接收快捷模拟配置信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="88xLPIZBhwsMb3c_BO-y-2">
+          <mxGeometry x="150" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oi_H1_zlZB5ZxI1v-2Wl-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="88xLPIZBhwsMb3c_BO-y-1" target="88xLPIZBhwsMb3c_BO-y-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

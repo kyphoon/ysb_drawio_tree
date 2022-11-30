@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T09:32:42.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jL4u5QLkjmDaDn2pntky" version="20.6.0" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-11-30T09:33:58.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UK1Rq2qcn0zUMCj0vc2w" version="20.6.0" type="github" pages="25">
   <diagram id="obTb_zUIPGWaoOHYsDIB" name="封面">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4545,7 +4545,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W9RhMZNQlGZUm4cZAA73-28" value="若设备处于模拟状态1min更新一次模拟时长到数据库" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="520" y="584.5" width="370" height="30" as="geometry" />
+          <mxGeometry x="520" y="585" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W9RhMZNQlGZUm4cZAA73-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="W9RhMZNQlGZUm4cZAA73-28" parent="1">
           <mxGeometry relative="1" as="geometry">
